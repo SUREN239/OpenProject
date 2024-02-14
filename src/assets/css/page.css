@@ -16,24 +16,41 @@
     background-color:darkblue;
     display: flex;
     border-radius: 5px;
+    
+    box-shadow:
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.08),
+  100px 100px 80px rgba(0, 0, 0, 0.16)
+;
 }
 .content2{
     grid-area: content2;
-    background-color:darkblue;
+    background-color:white;
     display: flex;
     border-radius: 5px;
+    box-shadow:
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.08),
+  100px 100px 80px rgba(0, 0, 0, 0.16)
+;
 }
 .content3{
     display: flex;
     grid-area: content3;
     background-color:darkblue;
     border-radius: 5px;
+    box-shadow:
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.08),
+  100px 100px 80px rgba(0, 0, 0, 0.16)
+;
 }
 .content4{
     display: flex;
     grid-area: content4;
-    background-color:darkblue;
+    background-color:white;
     border-radius: 5px;
+    box-shadow:
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.08),
+  100px 100px 80px rgba(0, 0, 0, 0.16)
+;
 }
 .image{
     /* padding: 20px; */
@@ -47,6 +64,13 @@
     height: 35vh;
     width: 30vw;
     color:white;
+    /* background-color:cyan; */
+}
+.container1{
+    margin: 2%;
+    height: 35vh;
+    width: 30vw;
+    color:darkblue;
     /* background-color:cyan; */
 }
 .container h5{
@@ -65,6 +89,17 @@
     height:35vh;
     width:50vw;
     color:white;
+    /* border: 1px solid;
+    border-color: white;
+    border-radius: 5px; */
+    /* background-color: bisque; */
+}
+.description1{
+    
+    margin:2%;
+    height:35vh;
+    width:50vw;
+    color:darkblue;
     /* background-color: bisque; */
 }
 .auth-btn {

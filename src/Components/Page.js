@@ -27,10 +27,10 @@ function Page() {
             </div>
             <div className='content2'>
                 
-                <div className='description'>
+                <div className='description1'>
                     <p>"Avanta" is a vibrant annual college-level event that serves as a melting pot of technical innovation and creative expression, attracting participation from diverse engineering departments. Combining both technical and non-technical competitions, Avanta offers a platform for students to showcase their skills, ideas, and talents in a competitive yet supportive environment.</p>
                 </div>
-                <div className='container'>
+                <div className='container1'>
                 <h2>AVANTA FEST</h2>
                 <h4>Mode:Offline/Online</h4>
                 <h4>Sri Krishna College of Technology,Coimbatore,Tamilnadu</h4>
@@ -69,10 +69,10 @@ function Page() {
                 </div>
             </div>
             <div className='content4'>
-                <div className='description'>
+                <div className='description1'>
                     <p>"Avanta" is a vibrant annual college-level event that serves as a melting pot of technical innovation and creative expression, attracting participation from diverse engineering departments. Combining both technical and non-technical competitions, Avanta offers a platform for students to showcase their skills and talents in a competitive yet supportive environment.</p>
                 </div>
-                <div className='container'>
+                <div className='container1'>
                 <h2>AVANTA FEST</h2>
                 <h4>Mode:Offline/Online</h4>
                 <h4>Sri Krishna College of Technology,Coimbatore,Tamilnadu</h4>
