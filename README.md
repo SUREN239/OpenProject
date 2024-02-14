@@ -8,3 +8,6 @@ Classroom Landing Page
 ![Screenshot (236)](https://github.com/SUREN239/OpenProject/assets/149653778/57163a0e-38a6-4474-ab8f-be94730e9140)
 ![Screenshot (237)](https://github.com/SUREN239/OpenProject/assets/149653778/91691b3a-eb15-4360-b49f-bc743593cafa)
 
+Profile page
+![2024-02-14](https://github.com/SUREN239/OpenProject/assets/124038062/314878f1-444f-433b-8ddd-1eee9a880df6)
+
