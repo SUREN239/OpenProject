@@ -1,0 +1,108 @@
+.user-profile-container {
+    background-color: #05203c;
+    /* Light blue background */
+    padding: 20px;
+    border-radius: 10px;
+    height:100vh;
+}
+
+.userProfile-container {
+    display: flex;
+    padding: 30px;
+    /* background-color:  #6f858b;  */
+    
+    border-radius: 16px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    flex-direction: column;
+    margin: 2%;
+    height: 70vh;
+}
+
+.user-profile-header {
+    display: flex;
+    align-items: center;
+}
+
+.profile-picture {
+    width: 10vw;
+    height: 20vh;
+    align-items: left;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.user-name {
+    text-align: center;
+    color: #484c50;
+    margin-left: 10px;
+}
+
+.user-details {
+    color: black;
+    margin: 20px;
+
+}
+
+.user-email {
+    font-size: 24px;
+    color: #343a40;
+    /* Dark blue color for email */
+}
+
+.profile {
+    
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.profile h1 {
+    margin-top: 0;
+}
+
+.profile-info {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    background-color: #e1dbdb;
+    /* opacity: 20%; */
+}
+
+.profile-info div {
+    padding: 10px;
+    border: 1px solid #f1ecec;
+    border-radius: 5px;
+}
+
+.profile-info h3 {
+    margin-top: 0;
+}
+
+.profile-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.profile-info li {
+    margin-bottom: 5px;
+}
+div{
+    box-shadow:
+  2.8px 2.8px 2.2px rgba(0, 0, 0, 0.023),
+  6.7px 6.7px 5.3px rgba(0, 0, 0, 0.034),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.042),
+  22.3px 22.3px 17.9px rgba(0, 0, 0, 0.052),
+  41.8px 41.8px 33.4px rgba(0, 0, 0, 0.068),
+  100px 100px 80px rgba(0, 0, 0, 0.11)
+;
+}
+.buttons-adn{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttons-adn {
+    display: flex;
+    gap: 15px;
+  }
+  
