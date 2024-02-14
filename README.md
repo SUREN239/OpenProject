@@ -1,6 +1,7 @@
 # OpenProject
 Hackathon list page
-<img width="953" alt="image" src="https://github.com/SUREN239/OpenProject/assets/125125674/98ae421d-7d5c-4281-a7d2-54d24125afe6">
+<img width="960" alt="Screenshot 2024-02-14 072614" src="https://github.com/SUREN239/OpenProject/assets/125125674/cf1640d3-e053-45fd-9f3b-8c5640b15306">
+
 
 Classroom Landing Page
 ![Screenshot (235)](https://github.com/SUREN239/OpenProject/assets/149653778/641f2c02-4c1b-4375-b7fe-36195644eab5)
